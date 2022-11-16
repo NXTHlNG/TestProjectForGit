@@ -1,6 +1,6 @@
 public class TestApplication {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
-        System.out.println("It is a master branch");
+        System.out.println("Conflict fixed");
     }
 }
